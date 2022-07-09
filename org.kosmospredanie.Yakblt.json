@@ -1,7 +1,7 @@
 {
 	"app-id": "org.kosmospredanie.Yakblt",
 	"runtime": "org.freedesktop.Platform",
-	"runtime-version": "19.08",
+	"runtime-version": "21.08",
 	"sdk": "org.freedesktop.Sdk",
 	"command": "org.kosmospredanie.Yakblt",
 	"finish-args": [
@@ -40,8 +40,7 @@
 			"sources": [{
 				"type": "git",
 				"url": "https://github.com/texus/TGUI.git",
-				"tag": "v0.8.7",
-				"commit": "5ee202f93a280744a2bbf92c12f693510f69dbcf"
+				"tag": "v0.8.7"
 			}]
 		},
 		{
@@ -51,8 +50,7 @@
 			"sources": [{
 				"type": "git",
 				"url": "https://gitlab.com/kosmospredanie/yakblt.git",
-				"tag": "2020.02.10",
-				"commit": "b718a086cd5f49322e407eb65b21ad3873206cbf"
+				"tag": "2020.02.10+1"
 			}]
 		}
 	]
