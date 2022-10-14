@@ -1,7 +1,7 @@
 {
 	"app-id": "org.kosmospredanie.Yakblt",
 	"runtime": "org.freedesktop.Platform",
-	"runtime-version": "21.08",
+	"runtime-version": "22.08",
 	"sdk": "org.freedesktop.Sdk",
 	"command": "org.kosmospredanie.Yakblt",
 	"finish-args": [
@@ -40,7 +40,8 @@
 			"sources": [{
 				"type": "git",
 				"url": "https://github.com/texus/TGUI.git",
-				"tag": "v0.8.7"
+				"tag": "v0.8.9",
+				"commit": "e06cad68aeb00fa5650c9cbd1a9b6f35503eb766"
 			}]
 		},
 		{
