@@ -14,7 +14,6 @@
 		"/include",
 		"/lib/pkgconfig",
 		"/lib/cmake",
-		"/lib/debug",
 		"/share/gir-1.0",
 		"/lib/girepository-1.0"
 	],
